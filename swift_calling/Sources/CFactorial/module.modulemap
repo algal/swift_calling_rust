@@ -1,0 +1,6 @@
+module CFactorial [system] {
+  header "CFactorial.h"
+  link "librust_factorial"
+  export *
+}
+
