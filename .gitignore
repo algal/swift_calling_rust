@@ -1,0 +1,13 @@
+# rust build and package 
+rust_factorial/target
+rust_factorial/Cargo.lock
+
+swift_calling/.build
+swift_calling/.DS_Store
+swift_calling//.build
+swift_calling//Packages
+swift_calling//*.xcodeproj
+swift_calling/xcuserdata/
+swift_calling/DerivedData/
+swift_calling/.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
